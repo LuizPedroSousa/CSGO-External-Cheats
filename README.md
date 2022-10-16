@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <a href="#page_facing_up-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#clipboard-road-map">Road map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#man-author">Author</a>
+  <a href="#page_facing_up-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#man-author">Author</a>
 </p>
 <br/>
 
@@ -21,18 +21,11 @@
 
 Cheat que le e escreve em memória utilizando o processo do csgo e os offsets do [Hazedumper](https://github.com/frk1/hazedumper)
 
-> **Features** :sparkles:
->
-> - Aimbot
-> - Skin-Change
-> - ESP Glow
+### Features :sparkles:
 
-<p align="center">
-<img src=".github/gifs/aim.gif" width="300px" alt="Aimbot"/>
-&nbsp;
-<img src=".github/gifs/glow.gif" width="300px" alt="Glow"/>
-<img src=".github/gifs/skin-change.gif" width="300px" alt="Skin Change"/>
-</p>
+|          Aimbot           |          ESP-Glow          |            Skin Change            |
+| :-----------------------: | :------------------------: | :-------------------------------: |
+| ![](.github/gifs/aim.gif) | ![](.github/gifs/glow.gif) | ![](.github/gifs/skin-change.gif) |
 
 <br/>
 
